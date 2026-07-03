@@ -1,20 +1,27 @@
-# Operations-Logistics-Samples
-Sample workflows, task structures, and documentation used in operations and logistics support roles.
-# Operations & Logistics Examples
+# Import Cost Calculator
+A Python project that automates landed cost calculations for international imports under EXW, FOB, and CIF Incoterms.
 
-This repository showcases examples of operational tasks and logistics coordination activities I have handled in previous roles.
+## Business Problem
+Import specialists need to estimate the total landed cost of imported goods to compare suppliers and support procurement decisions.
 
-## Examples Included
-- Daily operations task lists
-- Logistics coordination checklists
-- Vendor and customer communication flows
-- Documentation control processes
-- Basic KPI tracking structure
+## Features
+- Calculate CIF value
+- Customs Duty calculation
+- VAT calculation
+- Total landed cost
+- Incoterm logic (EXW, FOB, CIF)
 
-## Focus Areas
-- Accuracy
-- Timeliness
-- Process efficiency
-- Clear communication
+## Technologies
+- Python
+- Pandas
+- Google Colab
 
-These examples reflect real-world operational support in fast-paced, remote, and international environments.
+## Dataset
+Synthetic import operations dataset inspired by real international trade scenarios.
+
+## Future Improvements
+- Excel export
+- Interactive dashboard
+- Currency conversion
+- Supplier comparison
+- Freight scenarios
